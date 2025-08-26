@@ -90,7 +90,7 @@ The following steps were undertaken to prepare, model, and visualize the dataset
 
 ## 📷 Dashboard Preview
 
-*<img width="991" height="509" alt="CUSTOMER INSIGHTS   PROFITABILITY DASHBOARD" src="https://github.com/user-attachments/assets/5b9bf748-85bc-43d6-92e4-289eda0bc991" />
+*<img width="992" height="513" alt="Customer insights and profitability dashboard" src="https://github.com/user-attachments/assets/7197f30f-1715-4f05-b5c8-89eada0f069e" />
 *
 
 ---
